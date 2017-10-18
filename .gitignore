@@ -303,3 +303,8 @@ __pycache__/
 
 # OpenCover UI analysis results
 OpenCover/
+
+
+# nots
+!Dependencies/GLEW/lib/Release/
+!Dependencies/GLEW/lib/Release/x64
